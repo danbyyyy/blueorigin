@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+"GA3IOHC4SBMOFMI6W4NX3UCKOL2LBQI43ITTH3WS4LJBRUVD7BCPEQL4"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Gemsociety"
-ORG_URL="https://www.gemsociety.org"
-ORG_DESCRIPTION="The American Gem Society (AGS) is a nonprofit trade association of fine jewelry professionals dedicated to setting, maintaining and promoting the highest standards of ethical conduct and professional behavior through education, accreditation, recertification of its membership"
-ORG_TWITTER="@GEMSOCIETY"
-ORG_LOGO="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-ORG_OFFICIAL_EMAIL="gemsociety@gmail.com"
+ORG_NAME="BlueOrigin"
+ORG_URL="https://www.blueorigin.com/"
+ORG_DESCRIPTION="Blue Origin was founded by Jeff Bezos with the vision of enabling a future where millions of people are living and working in space to benefit Earth. In order to preserve Earth, Blue Origin believes that humanity will need to expand, explore, find new energy and material resources, and move industries that stress Earth into space. Blue is working on this today by developing partially and fully reusable launch vehicles that are safe, low cost and serve the needs of all civil, commercial and defense customers."
+ORG_TWITTER="@blueorigin"
+ORG_LOGO="https://i.ibb.co/xX1r7JS/blueorigin.png"
+ORG_OFFICIAL_EMAIL="supportblueorigin@gmail.com"
 
 
 [[CURRENCIES]]
-code="EmeraldGem"
-issuer="GCTZNET5MSXIEX7EUPJ5VOSYMFIXC4MEGSMBLY36USVMCEBXESIZAQTN"
+code="BlueOrigin"
+issuer="GA3IOHC4SBMOFMI6W4NX3UCKOL2LBQI43ITTH3WS4LJBRUVD7BCPEQL4"
 anchor_asset="false"
-name="Emerald Gem"
-desc="When it comes to rare and expensive gemstones, most of us immediately think of diamonds, but, in fact, emeralds are more than 20 times rarer than diamonds and, therefore, often command a higher price."
-conditions="1 carat of low-grade emerald can cost as little as $200, while 1 carat of a high-quality gem can fetch up to $18,000. Synthetic emeralds are much cheaper, with even the highest quality costing around $350 for 1 carat."
-image="https://i.ibb.co/QMRy8Vf/61-UDNlq-B-a-L-AC-SX466.jpg"
-fixed_number=10000000
-max_number=10000000
+name="Blue Origin"
+desc="Blue Origin was founded by Jeff Bezos with the vision of enabling a future where millions of people are living and working in space to benefit Earth. In order to preserve Earth, Blue Origin believes that humanity will need to expand, explore, find new energy and material resources, and move industries that stress Earth into space. Blue is working on this today by developing partially and fully reusable launch vehicles that are safe, low cost and serve the needs of all civil, commercial and defense customers."
+conditions=""
+image="https://i.ibb.co/xX1r7JS/blueorigin.png"
+fixed_number=1000000
+max_number=1000000
 is_unlimited=false
-#EmeraldGem was issued using the open and inclusive Stellar blockchain network.
+#BlueOrigin was issued using the open and inclusive Stellar blockchain network.
